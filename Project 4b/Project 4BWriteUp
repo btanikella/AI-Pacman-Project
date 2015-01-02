@@ -1,0 +1,29 @@
+Project 4B Neural Nets Write UP 40%.
+
+Author: Bharadwaj Tanikella
+
+
+Question 5. 
+
+Code: 
+Testing.py the code resides on that file.
+pen = []
+car = []
+for i in range(5):
+    pen.append(testPenData()[1])
+    car.append(testCarData()[1])
+print(average(pen),max(pen),stDeviation(pen))   
+print(average(car),max(car),stDeviation(car))   
+
+Data When Run:
+
+TestPenData : Average: 0.8113779302458548, Maximum: 0.8287592910234419, Standard Deviation: 0.008937323440818046
+TestCarData : Average: 0.7032722513089006, Maximum: 0.7401832460732984, Standard Deviation: 0.053413085512918165
+
+The values when run with the code is listed above. The code is placed in Testing.py and then further run to get the values.
+
+
+Question 6.
+
+
+
